@@ -16,7 +16,7 @@ function Navigate() {
                 <Col>
                         <div id='Nav-icons' className='d-flex justify-content-between align-items-center w-75 mt-3'>
                             <p><i className="fa-solid fa-magnifying-glass"> </i> Search</p>
-                            <p><i className="fa-solid fa-percent"></i> Offers <sup style={{color:"#fda502"}}>New</sup> </p>
+                            <p><i className="fa-solid fa-percent"></i> Offers <sup style={{color:"#fda502"}}>New test</sup> </p>
                             <p><i className="fa-solid fa-bowl-food"></i> Help</p>
                             <p><i className="fa-regular fa-user"></i> Profile</p>
                             <p><i className="fa-solid fa-cart-shopping"></i> Cart</p>
